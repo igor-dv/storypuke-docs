@@ -1,1 +1,1 @@
-=== Beta testing storybook docs v2 deployment ===
+Beta testing storybook docs v2 deployment
