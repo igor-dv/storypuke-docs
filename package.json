@@ -1,0 +1,16 @@
+{
+  "name": "storypuke.js.org",
+  "version": "1.0.0",
+  "description": "storypuke.js.org documentation",
+  "keywords": [
+    "react",
+    "storybooks"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
