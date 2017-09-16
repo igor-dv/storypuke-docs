@@ -9,9 +9,8 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "deploy:manual": "now deploy --name storypuke --static --public --debug"
   },
   "devDependencies": {
-    "now": "^7.4.0"
+    "gh-pages": "^1.0.0"
   }
 }
