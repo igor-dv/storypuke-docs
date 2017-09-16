@@ -1,1 +1,15 @@
-{"name":"storypuke.js.org","version":"3.2.8","description":"storypuke.js.org documentation","keywords":["react","storybooks"],"license":"MIT","main":"n/a","scripts":{},"devDependencies":{"gh-pages":"^1.0.0"}}
+{
+  "name": "storypuke.js.org",
+  "version": "3.2.8",
+  "description": "storypuke.js.org documentation",
+  "keywords": [
+    "react",
+    "storybooks"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {},
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
