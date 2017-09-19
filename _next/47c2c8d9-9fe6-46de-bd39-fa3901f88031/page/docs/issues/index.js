@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/docs/issues', function() {
+            var comp = module.exports=webpackJsonp([14],{450:function(e,t,l){e.exports=l(451)},451:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var u=l(0),r=a(u),n=l(18),s=a(n),i=l(19),d=a(i),f=l(31),o=l(15),c=(function(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var l in e)Object.prototype.hasOwnProperty.call(e,l)&&(t[l]=e[l]);t.default=e}(o),r.default.createElement("div",null,r.default.createElement("h1",{id:"issues","aria-level":1,title:"Issues"},"Issues"),r.default.createElement("p",null,r.default.createElement("strong",null,"TODO")),r.default.createElement("h2",{id:"todo-write-this-page","aria-level":2,title:"TODO: write this page"},"TODO: write this page"),r.default.createElement("p",null,"TODO")));t.default=(0,n.generator)("DocsIssues",function(e){var t=e.path,l=e.query;return r.default.createElement(s.default,null,r.default.createElement(d.default,{path:t}),r.default.createElement(f.Content,{path:t,query:l},c))})}},[450]);
+            return { page: comp.default }
+          })
+        
